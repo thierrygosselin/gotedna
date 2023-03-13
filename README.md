@@ -1,5 +1,5 @@
 
-# gotedna
+# GOTeDNA <a href='https://thierrygosselin.github.io/gotedna/'><img src='man/figures/logo.png' align="right" height="139" /></a>
 
 **GOTeDNA**
 

@@ -1,2 +1,12 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^appveyor\.yml$
+^README\.Rmd$
+^FEATURES\.md$
+^inst/_pkgdown\.yml$
+^docs$
+^pkgdown$
+^_pkgdown\.yml$
+^\.github$
+^LICENSE\.md$
+^cran-comments\.md$

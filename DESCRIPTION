@@ -1,4 +1,6 @@
 Package: gotedna
+Type: Package
+Encoding: UTF-8
 Title: Guidance on optimal eDNA sampling periods to develop, optimize and interpret monitoring programs
 Date: 2023-03-09
 Version: 0.1
@@ -8,11 +10,9 @@ Authors@R: c(
   )
 Maintainer: Thierry Gosselin <thierrygosselin@icloud.com>
 Description: Guidance on optimal eDNA sampling periods to develop, optimize and interpret monitoring programs.
-Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
 Depends:
-    R (>= 4.2.2)
+    R (>= 4.0)
 Imports:
     dplyr (>= 1.0.0),
 Suggests:
@@ -43,6 +43,7 @@ Suggests:
     viridis,
     utils,
     worms
+RoxygenNote: 7.2.3
 License: GPL-3
 LazyLoad: yes
 VignetteBuilder:
